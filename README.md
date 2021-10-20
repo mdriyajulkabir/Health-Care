@@ -1,6 +1,6 @@
 # Support life
 
-We are try our best to survibe you!
+We are try our best to survive you!
 
 # Our Mission
 ### We start by making the patient assessment and follow through. Directing the Home Care program every step of the way, until the patient is discharged.
