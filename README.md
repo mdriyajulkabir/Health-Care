@@ -12,7 +12,12 @@ https://friendly-beaver-bf7136.netlify.app
 
 ### why choice us?
 1. Home Care as easy as 1-2-3!
-2. 24/7 Availability.
+2. 24/7 Free ambulence service.
 3. Free In-Home Assessment.
 4. Employee Model Agency.
-5. "Comf
+5. We have best Doctors to help you
+
+
+### We Are available In three county 
+### Contact With Us
+### Get Appointment
