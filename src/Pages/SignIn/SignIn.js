@@ -48,7 +48,7 @@ const SignIn = () => {
     return (
         <div>
             <Header></Header>
-            <h1>Sign In</h1>
+            <h1 className='text-center'>Sign In</h1>
             
 
             <Form className='w-25 mx-auto' onSubmit={handleSignIn}>
@@ -65,16 +65,16 @@ const SignIn = () => {
     <Form.Control onBlur={handlePasswordChange} type="password" placeholder="Password" />
   </Form.Group>
   <div className='row my-3 text-danger'>{error}</div>
-  <Button className='' variant="primary" type="submit">
-    Submit
+  <Button className='btn btn-warning' variant="primary" type="submit">
+    Sign In
   </Button>
   <br /> <br />
-  <p className='text-center'>New User? <Link style={{color:'blue', textDecoration:'none'}} to='/signup'>Log In</Link> </p>
+  <p className='text-center'>New User? <Link style={{color:'blue', textDecoration:'none'}} to='/signup'>Sign In</Link> </p>
 </Form>
 
 <br />
 <div className='d-flex justify-content-center'>
-    <button onClick={handleGoogleLogIn}>Google sign in</button>
+    <button className='btn btn-warning' onClick={handleGoogleLogIn}>Google sign in</button>
 </div>
 
             <Footer></Footer>
