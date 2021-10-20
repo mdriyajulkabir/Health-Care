@@ -13,7 +13,7 @@ const Services = ({service}) => {
         <h5 className="card-title">{departmentName}</h5>
         <p className="card-text">{description}.</p>
         <p>Available Doctor: {availableDoctor}</p>
-        <Link to={`/details/${id}`}>Details</Link>
+        <Link className='d-flex details justify-content-center mx-5 rounded-pill py-3' style={{ textDecoration:'none'}} to={`/details/${id}`}>Details</Link>
       </div>
     </div>
   

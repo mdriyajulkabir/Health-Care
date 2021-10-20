@@ -70,7 +70,7 @@ const SignUp = () => {
           SignUp
         </Button>
         <br /> <br />
-        <p className='text-center'>Already User? <Link style={{color:'blue', textDecoration:'none'}} to='/login'>Log In</Link> </p>
+        <p className='text-center'>Already User? <Link style={{color:'blue', textDecoration:'none'}} to='/login'>Sign In</Link> </p>
         
       </Form>
     
