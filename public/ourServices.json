@@ -1,0 +1,65 @@
+ [
+  {
+    "departmentName": "Dental Care",
+    "description": "The most commonly used methods of assessing need for treatment are based solely on clinical criteria",
+    "availableDoctor": 3,
+    "id": 1,
+    "url": "https://images.unsplash.com/photo-1551601651-71a596031b84?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=575&q=80"
+  },
+  {
+    "departmentName": "Baby Care",
+    "description": "Bringing home a new baby is exciting, fun, and sometimes scary, especially if you are a first-time parent",
+    "availableDoctor": 5,
+    "id": 2,
+    "url": "https://media.istockphoto.com/photos/deep-in-dreamland-picture-id1095811396?s=612x612"
+  },
+  {
+    "departmentName": "Precise Diagnosis",
+    "description": "Getting diagnosis right has always been the cornerstone of healthcare. Your healh is Our first priority",
+    "availableDoctor": 2,
+    "id": 3,
+    "url": "https://as1.ftcdn.net/v2/jpg/02/37/60/50/500_F_237605015_wWxm6JRkaNYjJdD0wqvFZOhHUU0S7N1u.jpg"
+  },
+  {
+    "departmentName": "Gynecological",
+    "description": "The resurgence of COVID-19 cases following the emergence of the delta variant has strained hospitals and healthcare systems across the country and has started to impact our region as well",
+    "availableDoctor": 6,
+    "id": 4,
+    "url": "https://image.freepik.com/free-photo/pregnant-woman-with-ultrasound-photo-sitting-bed_1303-27132.jpg"
+  },
+  {
+    "departmentName": "Cardiology",
+    "description": "When a patient has a PFO, or hole in the heart, doctors are left with a decision: to close or not to close. We will try our best to give you better services",
+    "availableDoctor": 5,
+    "id": 5,
+    "url": "https://as1.ftcdn.net/v2/jpg/02/33/75/52/1000_F_233755218_MyiwNDELehYutwyE1RRIro8ysHO4z6PB.jpg"
+  },
+  {
+    "departmentName": "Neurology",
+    "description": "Our day-to-day lives as trainees are replete with personal and clinical experiences that—when shared—offer the opportunity for others to learn and reflect as well.",
+    "availableDoctor": 6,
+    "id": 6,
+    "url": "https://as1.ftcdn.net/v2/jpg/01/67/78/22/1000_F_167782221_vX6dGPAjrcyMXdOdoBacMWr62McnXQlJ.jpg"
+  },
+  {
+    "departmentName": "Medicine & Diabetes",
+    "description": "There is a well-known terminology disparity between laypeople and health professionals. Using the Unified Medical Language System (UMLS).  Many health professionals would answer that patients with diabetes do not do what they are told",
+    "availableDoctor": 4,
+    "id": 7,
+    "url": "https://images.unsplash.com/photo-1542884748-2b87b36c6b90?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "departmentName": "Skin & Sex",
+    "description": "A significantly decreased skin extensibility time in the pre-menstrual phase was found (25th day) when compared with the 10th day in the young group, while the older one did not reveal significant changes",
+    "availableDoctor": 3,
+    "id": 8,
+    "url": "https://images.unsplash.com/photo-1564594228700-4b5ae46c70c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=581&q=80"
+  },
+  {
+    "departmentName": "Test Covid-19",
+    "description": "The world continues to face a life-threatening viral pandemic. The virus underlying the COVID-19 disease, SARS-CoV-2, has caused over 98 million confirmed cases and 2.2 million deaths since January 2020.",
+    "availableDoctor": 6,
+    "id": 9,
+    "url": "https://media.istockphoto.com/photos/corona-virus-covid19-blue-picture-id1218271661?s=612x612"
+  }
+]

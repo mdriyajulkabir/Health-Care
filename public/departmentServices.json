@@ -1,0 +1,44 @@
+ [
+  {
+    "departmentName": "Dental Care",
+    "description": "Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery. Come in Today for a check-up",
+    "availableDoctor": 3,
+    "id": 1,
+    "url": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "departmentName": "Baby Care",
+    "description": "Bringing home a new baby is exciting, fun, and sometimes scary, especially if you are a first-time parent",
+    "availableDoctor": 5,
+    "id": 2,
+    "url": "https://media.istockphoto.com/photos/deep-in-dreamland-picture-id1095811396?s=612x612"
+  },
+  {
+    "departmentName": "Precise Diagnosis",
+    "description": "Getting diagnosis right has always been the cornerstone of healthcare. Care Your Health, make smile forever",
+    "availableDoctor": 2,
+    "id": 3,
+    "url": "https://as1.ftcdn.net/v2/jpg/02/37/60/50/500_F_237605015_wWxm6JRkaNYjJdD0wqvFZOhHUU0S7N1u.jpg"
+  },
+  {
+    "departmentName": "Gynecological",
+    "description": "The resurgence of COVID-19 cases following the emergence of the delta variant has strained hospitals and healthcare systems across the country and has started to impact",
+    "availableDoctor": 6,
+    "id": 4,
+    "url": "https://image.freepik.com/free-photo/pregnant-woman-with-ultrasound-photo-sitting-bed_1303-27132.jpg"
+  },
+  {
+    "departmentName": "Cardiology",
+    "description": "When a patient has a PFO, or hole in the heart, doctors are left with a decision: to close or not to close. Not sure what is going on, come in Today for a Symptom Check up",
+    "availableDoctor": 5,
+    "id": 5,
+    "url": "https://as1.ftcdn.net/v2/jpg/02/33/75/52/1000_F_233755218_MyiwNDELehYutwyE1RRIro8ysHO4z6PB.jpg"
+  },
+  {
+    "departmentName": "Neurology",
+    "description": "Our day-to-day lives as trainees are replete with personal and clinical experiences that—when shared—offer the opportunity for others to learn and reflect as well.",
+    "availableDoctor": 6,
+    "id": 6,
+    "url": "https://as1.ftcdn.net/v2/jpg/01/67/78/22/1000_F_167782221_vX6dGPAjrcyMXdOdoBacMWr62McnXQlJ.jpg"
+  }
+]

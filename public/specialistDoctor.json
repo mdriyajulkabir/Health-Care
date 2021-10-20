@@ -1,0 +1,50 @@
+ [
+  {
+    "name": "Dr. Mahibbur Rashid",
+    "subject": "Heart specialist",
+    "qualification": "MBBS (Dhaka), D-Card (D.U) M.D (Cardiology)",
+    "time": "6.00 PM to 8.30 PM, Friday Closed",
+    "id": 1,
+    "doctor_url": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "name": "Prof.Dr.Zehad Khan",
+    "subject": "Heart specialist",
+    "qualification": "MCPS, FCPS, FRCP (Glasgow), FACC (USA)",
+    "time": "7.00 PM to 8.30 PM, Friday Closed",
+    "id": 2,
+    "doctor_url": "https://image.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg"
+  },
+  {
+    "name": "Dr. Sakina Anwar",
+    "subject": "Tnternal Medicine",
+    "qualification": "MBBS,MD.",
+    "time": "10.00 AM to 1.30 PM, Friday Closed",
+    "id": 3,
+    "doctor_url": "https://image.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg"
+  },
+  {
+    "name": "Professor Dr. Md. Lutful Kabir",
+    "subject": "Medicine",
+    "qualification": "MRCP (UK), FRCP (London).",
+    "time": "4.00 PM to 7.30 PM, Friday Closed",
+    "id": 4,
+    "doctor_url": "https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg"
+  },
+  {
+    "name": "Professor Dr. Masuda Begum Ranu",
+    "subject": "Gynecology & Obstetrics",
+    "qualification": "FCPS (Gynae & Obs), D-Med (UK).",
+    "time": "4.00 PM to 8.30 PM, Friday Closed",
+    "id": 5,
+    "doctor_url": "https://image.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827775.jpg"
+  },
+  {
+    "name": "Prof. Dr. S M. Siddiqur Rahman",
+    "subject": "Interventional & Clinical Cardiology",
+    "qualification": " MBBS (Dhaka), D-Card (D.U) M.D (Cardiology)",
+    "time": "11.00 AM to 1.00 PM, Friday Closed",
+    "id": 6,
+    "doctor_url": "https://image.freepik.com/free-photo/african-american-medical-doctor-man-with-mask-isolated-gray-background_231208-2230.jpg"
+  }
+]
